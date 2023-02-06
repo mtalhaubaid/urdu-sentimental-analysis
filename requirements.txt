@@ -1,0 +1,7 @@
+git clone https://github.com/mtalhaubaid/urdu-sentimental-analysis.git
+conda create -n urdu
+pip install urduhack
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+pip install openpyxl
